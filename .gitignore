@@ -58,4 +58,4 @@ nbproject/*
 # Output of the go coverage tool, specifically when used with LiteIDE #
 #######################################################################
 *.out
-hello
+hello.out
